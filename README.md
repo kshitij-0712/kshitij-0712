@@ -3,7 +3,7 @@
 <h1 align="center">Kshitij</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Open+Source+Contributor;Lifelong+Learner&center=true&width=380&height=45" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Engineer+Is+A;Lifelong+Learner&center=true&width=380&height=45" alt="Typing SVG" />
 </p>
 
 ---
@@ -22,23 +22,7 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,C++,C,mongodb,git,github,linux" />
-</p>
-
----
-
-### 🔥 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kshitij-0712&theme=radical" alt="streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kshitij-0712&show_icons=true&theme=radical" alt="stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij-0712&layout=compact&theme=radical" alt="langs"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,git,github,linux" />
 </p>
 
 ---

@@ -3,7 +3,7 @@
 <h1 align="center">KSHITIJ</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Engineer+Is+A;Lifelong+Learner&center=true&width=380&height=45" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Engineer+Is;A+Lifelong+Learner&center=true&width=380&height=45" alt="Typing SVG" />
 </p>
 
 ---
